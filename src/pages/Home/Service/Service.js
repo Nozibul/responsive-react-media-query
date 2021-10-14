@@ -6,7 +6,7 @@ const Service = ({service}) => {
     return (
         <div className="single-service">
             <img src={img} alt="" /> 
-            <h2> {name}</h2>
+            <h2 className="mt-3"> {name}</h2>
             <p>Price: {price}</p>
 
         </div>
