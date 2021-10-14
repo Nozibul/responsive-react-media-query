@@ -1,0 +1,44 @@
+[
+    {
+      "id":1,
+      "name": "Tire",
+      "price": 3000,
+      "time": 2,
+      "img": "https://i.ibb.co/cNNp3Sv/1.png"
+    },
+    {
+      "id":2,
+      "name": "OIL changing",
+      "price": 5000,
+      "time": 4,
+      "img": "https://i.ibb.co/x7KFQmn/2.png"
+    },
+    {
+      "id":3,
+      "name": "Engine",
+      "price": 8000,
+      "time": 6,
+      "img": "https://i.ibb.co/3rMLyvq/3.png"
+    },
+    {
+      "id":4,
+      "name": "Body",
+      "price": 2000,
+      "time": 3,
+      "img": "https://i.ibb.co/SPdd0PX/5.png"
+    },
+    {
+      "id":5,
+      "name": "Giar",
+      "price": 4000,
+      "time": 4,
+      "img": "https://i.ibb.co/wNnWTYr/6.png"
+    },
+    {
+      "id":6,
+      "name": "Breaking",
+      "price": 1000,
+      "time": 1,
+      "img": "https://i.ibb.co/wNnWTYr/6.png"
+    }
+  ]

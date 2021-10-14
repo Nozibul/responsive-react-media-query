@@ -1,0 +1,12 @@
+.single-service{
+    border: 1px solid green;
+    padding-top: 15px;
+    margin-top: 30px;
+    background-color: rgb(245, 176, 176);
+    border-radius: 10px;
+    
+}
+.single-service img{
+    width: 380px;
+    border-radius: 10px;
+}
