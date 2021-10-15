@@ -11,13 +11,17 @@ useEffect(()=>{
     .then(data=> setServices(data))
 },[])
     return (
-        <div className="sevice-container">
-            {
-                services.map(service=> <Service
-                 key={service.id}
-                 service={service}
-                ></Service>)
-            }
+        <div>
+            <h2 className="mt-5">Our Services</h2>
+            <div className="sevice-container">
+                
+                {
+                    services.map(service=> <Service
+                    key={service.id}
+                    service={service}
+                    ></Service>)
+                }
+            </div>
         </div>
     );
 };
